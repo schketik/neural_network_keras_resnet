@@ -1,6 +1,3 @@
-Here's a sample README file for your project:
-
----
 
 # Age Prediction with Computer Vision
 
